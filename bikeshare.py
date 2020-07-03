@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 import time
+=======
+#importing time module
+import time
+#importing pandas and alias it as pd
+>>>>>>> refactoring
 import pandas as pd
 import numpy as np
 
